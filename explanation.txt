@@ -1,0 +1,11 @@
+Functions-task to be done (show)
+
+Parameters- actors in the show
+
+Arguments- values for actors
+
+If statements- conditions for the function
+if -if a specific condition is true
+else - if same condition is false
+else if - is first condition is false
+switch- alternative code
